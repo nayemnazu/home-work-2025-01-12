@@ -1,0 +1,41 @@
+.header{
+    min-height: 100px;
+    background-color: #727D73;
+}
+.wrapper{
+    overflow: hidden;
+}
+.left-container{
+    width: 50%;
+    min-height: 200px;
+    background-color: #AAB99A;
+    float: left;
+}
+.right-container{
+    width: 50%;
+    min-height: 200px;
+    background-color: #D0DDD0;
+    float: right;
+}
+.left-side{
+    width: 33.33%;
+    min-height: 200px;
+    background-color: #D0DDD0;
+    float: left;
+}
+.center-area{
+    width: 33.33%;
+    min-height: 200px;
+    background-color: #F0F0D7;
+    float: left;
+}
+.right-side{
+    width: 33.33%;
+    min-height: 200px;
+    background-color: #AAB99A;
+    float: left;
+}
+.footer{
+    min-height: 100px;
+    background-color: #727D73;
+}
